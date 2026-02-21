@@ -6,7 +6,7 @@ bin
 build
 minecraft
 gen_tree.py
-priject_tree.png
+project_tree.png
 Axolotl-common/build
 Axolotl-core/build
 Axolotl-loader/build
