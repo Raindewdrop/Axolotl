@@ -1,0 +1,17 @@
+.gradle
+.idea
+.kotlin
+.排除
+bin
+build
+minecraft
+gen_tree.py
+priject_tree.png
+Axolotl-common/build
+Axolotl-core/build
+Axolotl-loader/build
+Axolotl-common/bin
+Axolotl-core/bin
+Axolotl-loader/bin
+buildSrc/build
+buildSrc/.gradle

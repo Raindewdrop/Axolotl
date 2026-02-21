@@ -1,0 +1,11 @@
+package awa.hyw.Axolotl.util.memory
+
+import java.nio.ByteBuffer
+import java.nio.ByteOrder
+
+object MemoryUtil {
+    fun createDirectByteBuffer(capacity: Int): ByteBuffer {
+        return ByteBuffer.allocateDirect(capacity).order(ByteOrder.nativeOrder())
+    }
+}
+

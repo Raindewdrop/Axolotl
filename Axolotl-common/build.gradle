@@ -1,0 +1,9 @@
+plugins {
+    id 'java'
+}
+
+group = 'awa.hyw'
+version = '1.0-SNAPSHOT'
+
+dependencies {
+}
